@@ -14,3 +14,7 @@ Collection of classic games for Arduino using TFT displays.
 
 ## Author
 Dani3dprint (dany-ops)
+
+## 🎮 Tetris
+
+![Arduino Tetris](Tetris/Tetris/tetris.jpeg)
